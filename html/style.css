@@ -1,0 +1,58 @@
+body {
+      font-family: 'Montserrat', sans-serif;
+      position: relative;
+ 
+    }
+
+    .box {
+      display: none;
+      top: 39.4vw;
+      width: 240px;
+      height: 40px;
+      background-color: rgba(0, 0, 0, 0.61);
+      border: 2px solid rgba(255, 0, 0, 1);
+      color: azure;
+      border-radius: 10px;
+      position: absolute;
+      left: 20px;
+      margin: 20px auto;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    }
+
+    .arrow {
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 10px solid rgba(255, 0, 0, 1);
+      position: absolute;
+      bottom: -10px;
+      left: 90%;
+      transform: translateX(-50%);
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    }
+
+    .text-label {
+        position: relative;
+        font-size: 15px;
+        font-weight: 600;
+        top: -15px;
+        left: -40%;
+        display: flex;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    }
+
+    .fa-location-dot {
+      font-size: 24px; 
+      margin-right: 5px;
+    }
+
+    .label-coords {
+      position: relative;
+      top: -13px;
+      font-size: 15px;
+      font-weight: 600;
+    }
