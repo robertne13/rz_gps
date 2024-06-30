@@ -29,11 +29,17 @@ RESOURCE CONSUMPTION COMPARE OLD SCRIPT:
   <img src="https://cdn.discordapp.com/attachments/1094565099055878186/1256853226981036052/image.png?ex=66824748&is=6680f5c8&hm=3ed78d775dd1681f369834c37cf133ef75c56485e1e39fdd22a06e03be3c273f&" />
 </p>
 
+PREVIEW: 
+REMEMBER KEY DEFAULT IS CAPS LOCK OR BLOCK MAYUSC
+<p align="center">
+  <img src="https://imgur.com/8IVASKn.png" />
+</p>
+
 <hr>
 
 <p align="center">
   <a href="https://discord.gg/CCnee9sQkG">
-    <img src="https://img.shields.io/badge/-Join%20our%20Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Join our Discord server">
+    <img src="https://img.shields.io/badge/-Join%20our%20Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Join our Discord server" style="height: 30px;">
   </a>
 </p>
 
